@@ -64,8 +64,8 @@ a{color:inherit;text-decoration:none}
 .login-form{
 	min-height:345px;
 	position:relative;
-	-webkit-perspective:1000px;
-	        perspective:1000px;
+	-webkit-perspective:1100px;
+	        perspective:1100px;
 	-webkit-transform-style:preserve-3d;
 	        transform-style:preserve-3d;
 }
